@@ -25,7 +25,7 @@ After cloning this [repository](https://github.com/FernandaBroch/HarryPotterChar
   Content:
 
 ```
-spring.datasource.url = jdbc:mysql://localhost:3306/DatabaseName?allowPublicKeyRetrieval=true&useSSL=false`
+spring.datasource.url = jdbc:mysql://localhost:3306/DatabaseName?allowPublicKeyRetrieval=true&useSSL=false
 
 # Username and password
 spring.datasource.username = username
