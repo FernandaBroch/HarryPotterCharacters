@@ -1,4 +1,4 @@
-# HarryPotterCharacters - Backend Challange
+# HarryPotterCharacters - Backend Challenge
 
 The challenge consistes in an API Rest CRUD to persist a Harry Potter character. There is a check if the code of the House informed exists. This check consumes an external API. 
 
